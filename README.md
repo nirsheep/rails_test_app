@@ -1,4 +1,5 @@
-# Online Pharmacy Catalog (for fun only - kids don;t try it at home)
+# Online Pharmacy Catalog 
+## (for fun only - kids don't try it at home)
 
 ## Introduction
 Welcome to my fictional Online Pharmacy Catalog, a simplified version of an online pharmacy application built with Ruby on Rails. This project is designed to demonstrate a basic pharmacy catalog system that allows users to browse, search, add, remove and edit medications and related products.
